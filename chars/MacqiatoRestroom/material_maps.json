@@ -1,0 +1,31 @@
+{
+  "defaultPreset": "lobby",
+  "c_MacqiatoDorm_slg_cloth_d.png": {
+    "normal": "maps/c_MacqiatoDorm_slg_cloth_d_n.png"
+  },
+  "c_Macqiato_face_d.png": {
+    "normal": "maps/c_Macqiato_face_d_n.png"
+  },
+  "c_Macqiato_eye_d.png": {
+    "normal": "maps/c_Macqiato_eye_d_n.png"
+  },
+  "c_Macqiato_eyeblend .png": {
+    "normal": "maps/c_Macqiato_eyeblend _n.png"
+  },
+  "c_MacqiatoSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_MacqiatoSSR01_slg_cloth1_d_n.png"
+  },
+  "c_Macqiato_hair_d.png": {
+    "normal": "maps/c_Macqiato_hair_d_n.png"
+  },
+  "extra.png": {
+    "normal": "maps/extra_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

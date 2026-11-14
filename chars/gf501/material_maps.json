@@ -1,0 +1,12 @@
+{
+  "defaultPreset": "lobby",
+  "commander_male_cloth01_d.png": {
+    "normal": "maps/commander_male_cloth01_d_n.png"
+  },
+  "commander_male_cloth02_d.png": {
+    "normal": "maps/commander_male_cloth02_d_n.png"
+  },
+  "glock17_d.png": {
+    "normal": "maps/glock17_d_n.png"
+  }
+}

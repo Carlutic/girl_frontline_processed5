@@ -1,0 +1,61 @@
+{
+  "defaultPreset": "lobby",
+  "skin.png": {
+    "normal": "maps/skin_n.png"
+  },
+  "c_AndorisSSR0101_slg_P1_head_d.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_P1_head_d_n.png"
+  },
+  "c_AndorisSSR0101_slg_P2_head_d.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_P2_head_d_n.png"
+  },
+  "c_AndorisSSR0101_slg_P3_head_d.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_P3_head_d_n.png"
+  },
+  "c_AndorisSSR0101_slg_cloth1_d.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_cloth1_d_n.png"
+  },
+  "c_AndorisSSR0101_slg_zhijia_d_1.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_zhijia_d_1_n.png"
+  },
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "c_AndorisSSR0101_slg_P1_cloth_da.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_P1_cloth_da_n.png"
+  },
+  "c_AndorisSSR0101_slg_zhijia_d.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_zhijia_d_n.png"
+  },
+  "c_AndorisSSR0101_slg_P1_body_d.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_P1_body_d_n.png"
+  },
+  "c_AndorisSSR0101_slg_P2_cloth_da.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_P2_cloth_da_n.png"
+  },
+  "c_AndorisSSR0101_slg_P2_silkstock_da.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_P2_silkstock_da_n.png"
+  },
+  "c_AndorisSSR0101_slg_P2_body_d.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_P2_body_d_n.png"
+  },
+  "c_AndorisSSR0101_slg_P3_cloth_da.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_P3_cloth_da_n.png"
+  },
+  "c_AndorisSSR0101_slg_p3_silkstock_da.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_p3_silkstock_da_n.png"
+  },
+  "c_AndorisSSR0101_slg_P3_body_d.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_P3_body_d_n.png"
+  },
+  "c_AndorisSSR0101_slg_cloth2_da.png": {
+    "normal": "maps/c_AndorisSSR0101_slg_cloth2_da_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "p2丝袜": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

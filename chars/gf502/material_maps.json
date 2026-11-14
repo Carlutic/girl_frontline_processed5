@@ -1,0 +1,15 @@
+{
+  "defaultPreset": "lobby",
+  "skin.png": {
+    "normal": "maps/skin_n.png"
+  },
+  "commander_female_summer_cloth01_d.png": {
+    "normal": "maps/commander_female_summer_cloth01_d_n.png"
+  },
+  "commander_female_body_skin_d.png": {
+    "normal": "maps/commander_female_body_skin_d_n.png"
+  },
+  "commander_female_summer_cloth02_d.png": {
+    "normal": "maps/commander_female_summer_cloth02_d_n.png"
+  }
+}

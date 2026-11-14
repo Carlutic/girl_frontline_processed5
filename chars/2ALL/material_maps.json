@@ -1,0 +1,49 @@
+{
+  "defaultPreset": "lobby",
+  "c_Nikketa_slg_hair_d.png": {
+    "normal": "maps/c_Nikketa_slg_hair_d_n.png"
+  },
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "c_NikketaSSR0103_slg_P1_body_da.png": {
+    "normal": "maps/c_NikketaSSR0103_slg_P1_body_da_n.png"
+  },
+  "c_NikketaSSR0103_slg_zhijia_d.png": {
+    "normal": "maps/c_NikketaSSR0103_slg_zhijia_d_n.png"
+  },
+  "c_NikketaSSR0103_slg_P1_cloth1_d.png": {
+    "normal": "maps/c_NikketaSSR0103_slg_P1_cloth1_d_n.png"
+  },
+  "c_NikketaSSR0103_slg_P2_cloth1_d.png": {
+    "normal": "maps/c_NikketaSSR0103_slg_P2_cloth1_d_n.png"
+  },
+  "c_NikketaSSR0103_slg_P3_cloth1_d.png": {
+    "normal": "maps/c_NikketaSSR0103_slg_P3_cloth1_d_n.png"
+  },
+  "c_NikketaSSR0103_slg_cloth2_da.png": {
+    "normal": "maps/c_NikketaSSR0103_slg_cloth2_da_n.png"
+  },
+  "c_NikketaSSR0103_slg_P2_body1_da.png": {
+    "normal": "maps/c_NikketaSSR0103_slg_P2_body1_da_n.png"
+  },
+  "c_NikketaSSR0103_slg_cloth3_da.png": {
+    "normal": "maps/c_NikketaSSR0103_slg_cloth3_da_n.png"
+  },
+  "c_NikketaSSR0103_slg_cloth1_da.png": {
+    "normal": "maps/c_NikketaSSR0103_slg_cloth1_da_n.png"
+  },
+  "c_NikketaSSR0103_slg_P1_cloth2_da.png": {
+    "normal": "maps/c_NikketaSSR0103_slg_P1_cloth2_da_n.png"
+  },
+  "c_NikketaSSR0103_slg_P1_head_d.png": {
+    "normal": "maps/c_NikketaSSR0103_slg_P1_head_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Cth2-SocksGold": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

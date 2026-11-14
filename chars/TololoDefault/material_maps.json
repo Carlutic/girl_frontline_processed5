@@ -1,0 +1,19 @@
+{
+  "defaultPreset": "lobby",
+  "c_TololoSSR01_slg_body_d.png": {
+    "normal": "maps/c_TololoSSR01_slg_body_d_n.png"
+  },
+  "c_tololossr01_slg_cloth1.png": {
+    "normal": "maps/c_tololossr01_slg_cloth1_n.png"
+  },
+  "c_tololossr01_slg_cloth2.png": {
+    "normal": "maps/c_tololossr01_slg_cloth2_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

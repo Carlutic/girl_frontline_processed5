@@ -1,0 +1,9 @@
+{
+  "defaultPreset": "lobby",
+  "c_ColphneSR01_slg_cloth2_d.png": {
+    "normal": "maps/c_ColphneSR01_slg_cloth2_d_n.png"
+  },
+  "c_ColphneSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_ColphneSR01_slg_cloth1_d_n.png"
+  }
+}
