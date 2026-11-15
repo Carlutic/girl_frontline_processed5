@@ -51,11 +51,5 @@
   "c_AndorisSSR0101_slg_cloth2_da.png": {
     "normal": "maps/c_AndorisSSR0101_slg_cloth2_da_n.png"
   },
-  "stockingMode": "alpha",
-  "stockingSkinTexture": "socks_skin_d.png",
-  "materialOverrides": {
-    "p2丝袜": {
-      "diffuse": "socks_d.png"
-    }
-  }
+  "disableStocking": true
 }

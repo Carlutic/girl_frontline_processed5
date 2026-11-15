@@ -39,11 +39,5 @@
   "c_NikketaSSR0103_slg_P1_head_d.png": {
     "normal": "maps/c_NikketaSSR0103_slg_P1_head_d_n.png"
   },
-  "stockingMode": "alpha",
-  "stockingSkinTexture": "socks_skin_d.png",
-  "materialOverrides": {
-    "Cth2-SocksGold": {
-      "diffuse": "socks_d.png"
-    }
-  }
+  "disableStocking": true
 }
